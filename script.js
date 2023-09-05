@@ -41,6 +41,7 @@ const winningCombos = [
     [2,4,6]
 ]
 
+
 function playerHasWon(){
  for (const condition of winningCombos) {
     let [a,b,c] = condition;
