@@ -65,4 +65,5 @@ function restart(){
     playertext='Tic Tac Toe'
     currentPlayer=X_TEXT;
 }
+
 startGame();
